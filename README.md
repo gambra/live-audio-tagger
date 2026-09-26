@@ -1,5 +1,5 @@
 LIVE AUDIO TAGGER
-Portable Windows edition | Release 26 September 2026
+Release 26 September 2026
 ==================================================
 
 Prepare a live recording for sharing, or use individual audio tools.
@@ -9,19 +9,10 @@ tracks in your usual audio editor.
 QUICK START
 -----------
 1. Right-click the downloaded ZIP and choose Extract All.
-2. Keep the extracted folder somewhere you can save files, such as Documents.
-3. Open LiveAudioTagger.exe. The first launch may take a few seconds.
-4. In Settings, choose your Default export destination.
-5. In Main, add a recording folder, check the details and track titles,
+2. Open LiveAudioTagger.exe. The first launch may take a few seconds.
+3. In Settings, choose your Default export destination.
+4. In Main, add a recording folder, check the details and track titles,
    click Preview filenames and info text, then Tag Files.
-
-There is nothing else to install. Python and the audio libraries are included.
-This release is for 64-bit Windows 10 and 11. It does not upload anything to
-DIME, Internet Archive or another site; you upload the finished folder yourself.
-Internet access is needed only if you choose to use Setlist.fm.
-
-Windows may identify this unsigned app as an unrecognised publisher.
-Only open a copy obtained from a source you trust.
 
 FINDING YOUR WAY AROUND
 ----------------------
