@@ -1,5 +1,4 @@
-LIVE AUDIO TAGGER
-Release 26 September 2026
+Live Audio Tagger
 ==================================================
 
 Prepare a live recording for sharing, or use individual audio tools.
