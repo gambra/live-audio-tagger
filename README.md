@@ -1,7 +1,5 @@
 # Live Audio Tagger
 
-**Portable Windows edition · Release 26 September 2026**
-
 Prepare a live recording for sharing, or use individual audio tools. This guide assumes your recording has already been edited and split into tracks in your usual audio editor.
 
 [Download the Windows release](https://github.com/gambra/live-audio-tagger/releases/latest)
