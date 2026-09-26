@@ -26,10 +26,6 @@ Prepare a live recording for sharing, or use individual audio tools. This guide 
 5. In **Settings**, choose your **Default export destination**.
 6. In **Main**, add a recording folder, check the details and track titles, click **Preview filenames and info text**, then **Tag Files**.
 
-There is nothing else to install. Python and the audio libraries are included. This release is for 64-bit Windows 10 and 11. It does not upload anything to DIME, Internet Archive or another site; you upload the finished folder yourself. Internet access is needed only if you choose to use Setlist.fm.
-
-Windows may identify this unsigned app as an unrecognised publisher. Only open a copy obtained from a source you trust.
-
 ## Finding your way around
 
 | Tab | What it does |
@@ -299,8 +295,6 @@ The download contains four files:
 Keep these together. There is no installer and no separate Python or audio converter to install. The app briefly unpacks its included components into a temporary folder when starting; allow a few seconds and about 70 MB of free temporary space. Closing normally removes that temporary folder.
 
 After first use, `settings.ini` appears beside the app. It holds your preferences, local paths and Setlist.fm API key as readable text. Keep it private. Share the original ZIP, or the four release files above without your `settings.ini` or `LiveAudioTagger.log`. When moving the app, check saved destination and template paths in Settings. To reset preferences, close the app and rename `settings.ini` as a backup.
-
-This version has no automatic update checking or Windows file associations. It does not support SHN, APE, MP2, MKW, old CFP/SFV/ST5 checksums, torrents or lossy-source analysis. Use other software for audio editing or those formats.
 
 ## Appearance and saved log
 
