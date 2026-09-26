@@ -1,0 +1,28 @@
+{{artist}}
+
+{{venue}}
+{{city}}, {{country}}
+
+{{date}}
+
+-----
+
+Source: {{source}}
+{% if taping_location %}Location: {{taping_location}}{% endif %}
+{% if taper %}Taper: {{taper}}{% endif %}
+Format: {{format}}
+
+Total Running Time: {{total_duration}} [{{total_size}}]
+
+Tracklisting:
+{% for track in tracklist %}
+{{track}}
+{% endfor %}
+
+-----
+
+{% if show_notes %}Show Notes: 
+{{show_notes}}{% endif %}
+
+{% if tech_notes %}Tech Notes: 
+{{tech_notes}}{% endif %}

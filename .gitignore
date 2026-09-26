@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+settings.ini
+settings.ini.*
+LiveAudioTagger.log
+build/
+distribution/
+*.log
+.env
+.env.*
